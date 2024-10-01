@@ -26,6 +26,6 @@
 
  
 # :mailbox_with_mail: Contacts
-![Tech Blog Badge](https://img.shields.io/badge/Tistory-ff5a4a.svg?&style=for-the-badge&logo=Tistory&logoColor=white)
+[![Tech Blog Badge](https://img.shields.io/badge/Tistory-ff5a4a.svg?&style=for-the-badge&logo=Tistory&logoColor=white)](http://viin.tistory.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:u1qns@naver.com)](mailto:u1qns@naver.com)
 
